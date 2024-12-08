@@ -17,6 +17,7 @@ import {
   View,
 } from 'react-native';
 import Splash from './src/screens/Splash';
+import Home from './src/screens/Home';
 
 import {
   Colors,
@@ -64,7 +65,7 @@ function App(): React.JSX.Element {
   };
 
   return (
-      <Splash/>
+      <Home/>
   );
 }
 
