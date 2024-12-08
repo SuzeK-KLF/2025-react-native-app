@@ -16,7 +16,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   text: {
-    fontFamily: 'Montserrat',
+    fontFamily: 'Montserrat-Bold',
     fontSize: 90,
   },
 });

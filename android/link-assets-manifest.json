@@ -1,0 +1,125 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/adaptive_icon.png",
+      "sha1": "0209537398af15d2807344913442f58a7ea00320"
+    },
+    {
+      "path": "src/assets/cube.svg",
+      "sha1": "89bce7d1e592e4ea3363b0984a3da49f86740e30"
+    },
+    {
+      "path": "src/assets/favicon.png",
+      "sha1": "0209537398af15d2807344913442f58a7ea00320"
+    },
+    {
+      "path": "src/assets/fonts/Montserrat-Black.ttf",
+      "sha1": "b7553074657a5fff0d17afcd5a47c99116c72854"
+    },
+    {
+      "path": "src/assets/fonts/Montserrat-BlackItalic.ttf",
+      "sha1": "39dfc95afd317c6e3daf04f6106cf32e22b2951b"
+    },
+    {
+      "path": "src/assets/fonts/Montserrat-Bold.ttf",
+      "sha1": "3320ff5514b32565b0396de4f2064ce17ec9eea4"
+    },
+    {
+      "path": "src/assets/fonts/Montserrat-BoldItalic.ttf",
+      "sha1": "3e4f84f047452d1d3b262a4db5547b4baf390de8"
+    },
+    {
+      "path": "src/assets/fonts/Montserrat-ExtraBold.ttf",
+      "sha1": "6c958d968de367f05f7a6b790609f22076b3910c"
+    },
+    {
+      "path": "src/assets/fonts/Montserrat-ExtraBoldItalic.ttf",
+      "sha1": "39171d7f4db509f392b1d49696bc0b7e0f1f46b8"
+    },
+    {
+      "path": "src/assets/fonts/Montserrat-ExtraLight.ttf",
+      "sha1": "4925dcc1cf7564cd18d10bf5fb4ced7bc77e661c"
+    },
+    {
+      "path": "src/assets/fonts/Montserrat-ExtraLightItalic.ttf",
+      "sha1": "a23d10b7f93144b877fd53445ca33ee938498ff1"
+    },
+    {
+      "path": "src/assets/fonts/Montserrat-Italic.ttf",
+      "sha1": "2ff6c8d3a64ccd9f3c85dc7eef16a818af7075bc"
+    },
+    {
+      "path": "src/assets/fonts/Montserrat-Light.ttf",
+      "sha1": "08e510137064a3c9859b71cff5b999fe8c351e67"
+    },
+    {
+      "path": "src/assets/fonts/Montserrat-LightItalic.ttf",
+      "sha1": "1224ee16a3a9807ca5e89fba1c8fd4132565735b"
+    },
+    {
+      "path": "src/assets/fonts/Montserrat-Medium.ttf",
+      "sha1": "ca42fe10fa893f390472859405c7564095e4260f"
+    },
+    {
+      "path": "src/assets/fonts/Montserrat-MediumItalic.ttf",
+      "sha1": "2880cdec269b3e70365a0a41a39e16c0608d1ad5"
+    },
+    {
+      "path": "src/assets/fonts/Montserrat-Regular.ttf",
+      "sha1": "ff1eb5d360a42c0c675d8ecfca9a3e5b709d302a"
+    },
+    {
+      "path": "src/assets/fonts/Montserrat-SemiBold.ttf",
+      "sha1": "4ef29a9163b56df34a3486b98b24be3a3d0cdca6"
+    },
+    {
+      "path": "src/assets/fonts/Montserrat-SemiBoldItalic.ttf",
+      "sha1": "2ace9e4e1e9fd4d82f9de86d5acf1407518e0c3f"
+    },
+    {
+      "path": "src/assets/fonts/Montserrat-Thin.ttf",
+      "sha1": "cee83df1ec6934794d570d12e94397d5b5ca5fb5"
+    },
+    {
+      "path": "src/assets/fonts/Montserrat-ThinItalic.ttf",
+      "sha1": "62dcb447998b27a83872d75439ce35124fe08aa7"
+    },
+    {
+      "path": "src/assets/icon.png",
+      "sha1": "0209537398af15d2807344913442f58a7ea00320"
+    },
+    {
+      "path": "src/assets/loading_box.gif",
+      "sha1": "fe739b4a380cc5f420800336c62178019d91ec03"
+    },
+    {
+      "path": "src/assets/logo.png",
+      "sha1": "ae8356470c60a348f19d75aa0034a41419ad63ac"
+    },
+    {
+      "path": "src/assets/logo_dark.png",
+      "sha1": "fa33f56f54c83de3f45e8019837b46b8527de8bc"
+    },
+    {
+      "path": "src/assets/logo_default.png",
+      "sha1": "5e25fdad6a3a3e92f37837d08b723d5da7093ca4"
+    },
+    {
+      "path": "src/assets/lswms_splash.json",
+      "sha1": "43ec0e38aa5648ec2eb088fe9aaa449655b5b4c7"
+    },
+    {
+      "path": "src/assets/splash.json",
+      "sha1": "43ec0e38aa5648ec2eb088fe9aaa449655b5b4c7"
+    },
+    {
+      "path": "src/assets/splash.png",
+      "sha1": "fa33f56f54c83de3f45e8019837b46b8527de8bc"
+    },
+    {
+      "path": "src/assets/warehouse.jpg",
+      "sha1": "5d2ed9083c71ad79f1e38a20cf898631fd65ebb5"
+    }
+  ]
+}
