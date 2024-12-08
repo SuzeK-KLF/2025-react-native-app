@@ -1,15 +1,23 @@
 import React from 'react';
-import { View, Text } from 'react-native';
+import {StyleSheet} from 'react-native';
 import LottieView from 'lottie-react-native';
 
-export default function Splash():JSX.Element {
-    return (
-            <LottieView
-                style={{flex:1, backgroundColor: 'black'}}
-                source={require('../assets/lswmsSplash.json')}
-                autoPlay
-                loop={true}
-                resizeMode="cover"
-            />
-    );
+export default function Splash(): JSX.Element {
+  return (
+    <LottieView
+      style={styles.container}
+      source={require('../assets/lswmsSplash.json')}
+      autoPlay
+      loop={false}
+      resizeMode="cover"
+    />
+  );
 }
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+});
