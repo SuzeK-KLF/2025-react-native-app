@@ -1,0 +1,15 @@
+export default {
+    WHITE: '#fff',
+    GRADIENT_1: '#BA5B49',
+    GRADIENT_2: '#A64036',
+    GRADIENT_3: '#9E2A22',
+    GRADIENT_4: '#7C191E',
+    PRIMARY: '#EC1C24',
+    GRADIENT_2_1: '#ffcdb2',
+    GRADIENT_2_2: '#ffb4a2',
+    GRADIENT_2_3: '#e5989b',
+    GRADIENT_2_4: '#b5838d',
+    GRADIENT_2_5: '#6d6875',
+    ORANGE_BUTTON: '#ff8c42',
+    GREY: '#0f0f0f',
+};
