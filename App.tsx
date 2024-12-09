@@ -16,8 +16,8 @@ import {
   useColorScheme,
   View,
 } from 'react-native';
-import Splash from './src/screens/Splash';
-import Home from './src/screens/Home';
+import Splash from './src/screens/home/Splash';
+import Home from './src/screens/home/Home';
 
 import {
   Colors,
